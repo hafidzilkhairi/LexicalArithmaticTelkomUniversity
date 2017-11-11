@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1510387115 source:c:\users\anonymous\documents\codeblockprojects\tbaanyar\list.cpp
+	"List.h"
+
+1510384483 c:\users\anonymous\documents\codeblockprojects\tbaanyar\list.h
+	<iostream>
+
+1510410791 source:c:\users\anonymous\documents\codeblockprojects\tbaanyar\main.cpp
+	"List.h"
+	<iostream>
+
